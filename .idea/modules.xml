@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dev-adventofcode.iml" filepath="$PROJECT_DIR$/.idea/modules/Dev-adventofcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dev-adventofcode_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Dev-adventofcode_main.iml" group="adventofcode" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dev-adventofcode_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Dev-adventofcode_test.iml" group="adventofcode" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/adventofcode_main.iml" filepath="$PROJECT_DIR$/.idea/modules/adventofcode_main.iml" group="adventofcode" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/adventofcode_test.iml" filepath="$PROJECT_DIR$/.idea/modules/adventofcode_test.iml" group="adventofcode" />
     </modules>
